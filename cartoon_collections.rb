@@ -31,6 +31,4 @@ def find_the_cheese(strings)# code an argument here
       i += 1
     end
     nil
-    
-    
-end
+  end
